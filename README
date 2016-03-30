@@ -1,0 +1,5 @@
+README
+------
+1)Please provide the following command to run the java program
+
+java MyExe <image name> <number of coefficients>
